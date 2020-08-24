@@ -10,6 +10,5 @@ aclImdb/
 cats_and_dogs_small_1.h5
 *.csv
 jena_climate/
-
-
+tensorflow/data/
 
